@@ -6,7 +6,8 @@
 2. 박현수
 3. 방승혁
 4. 배진우
-5. 오승영
+5. 오승영 https://github.com/SSeungBBong/SSeungBBong
+
 6. LIU XUANYE
 7. LI XIANGCHENG
 8. LIU ZEWEN
