@@ -6,13 +6,19 @@
 2. 박현수
 3. 방승혁
 4. 배진우
-5. 오승영 https://github.com/SSeungBBong/SSeungBBong
+5. 오승영 https://github.com/SSeungBBong
 
-6. LIU XUANYE
-7. LI XIANGCHENG
+6. LIU XUANYE https://github.com/LIUXUANYE2004
+
+
+7. LI XIANGCHEN https://github.com/mbxhe
+
+
 8. LIU ZEWEN
-9. 김세진
-10. 이현수
+9. 김세진 https://github.com/SJang1
+10. 이현수 https://github.com/DEDOOOAD
+
+
 
 ### 수업 장면
 <img src="image/1.jpg" width="200" height="200" />
