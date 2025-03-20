@@ -2,10 +2,11 @@
   2025년 창업 트랙 과정 ICT 비지니스 창업 실무 
 
 ### 참여자 
-1. 김동섭
+1. 김동섭 https://github.com/dongseop9907
 2. 박현수
 3. 방승혁
-4. 배진우
+4. 배진우 https://github.com/jinwoo6607
+
 5. 오승영 https://github.com/SSeungBBong
 
 6. LIU XUANYE https://github.com/LIUXUANYE2004
